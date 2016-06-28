@@ -105,7 +105,6 @@ function glifeScope(){ //Just for scope safety
       ctx.clearRect(0, 0, width, height);
       stepGlife();
       drawGlife();
-      fillRect(0, 0);
     }, 1000 / speed);
 
     listener.sequence_combo('escape f1', function () {
