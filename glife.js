@@ -1,8 +1,9 @@
 /*
   Usage :
-   Press "down left up right down left up right escape"
+   Press "down left up right down left up right"
    Enter width and height (or nothing, it will be default values)
-   Then press "escape F1" to hide/show it (press keys at the SAME TIME)
+   Then press "left right left right" to hide/show it
+   You can reset the CA by pressing "up down up down"
    
   Todo :
    Configurations (local save)
